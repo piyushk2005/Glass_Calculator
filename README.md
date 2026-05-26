@@ -16,7 +16,8 @@ A modern and responsive Glassmorphism Calculator built using HTML, CSS, and Java
 - Modern Dark Theme Interface
 
 ## Screenshots
-![Glass Calculator Screenshot]()
+![Glass Calculator Screenshot](<img width="960" height="505" alt="Image" src="https://github.com/user-attachments/assets/7dae3669-f8d6-42e5-ae4b-8483a79535d5" />
+<img width="275" height="442" alt="Image" src="https://github.com/user-attachments/assets/136638cf-7e0c-4e7c-8d81-052f38dfca4f" />)
 
 ## Live Demo
 🔗 https://piyushk2005.github.io/Glass_Calculator/
