@@ -50,7 +50,8 @@ This project was developed as part of an internship assignment to demonstrate fr
 ## Author
 **Piyush Kalambe**
 
-GitHub: https://github.com/piyushk2005
+GitHub: 
+https://github.com/piyushk2005
 
 ## License
 This project is for educational and portfolio purposes only.
